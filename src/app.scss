@@ -1,0 +1,117 @@
+.App {
+    text-align: center;
+  }
+
+table {
+    // width:50%;
+    // border: 1px solid black;
+    //border-collapse: collapse;
+    // column-rule-style: solid;
+    table-layout: auto;
+    
+}
+// th {
+//     // border: 1px solid black;
+// }
+// td {
+
+//     // border: 1px solid black;
+       
+// }
+
+// tr {
+//     border: 1px solid black;
+// }
+
+div.position {
+    position: absolute;
+    bottom: 60px;
+    right: 60px;
+    // width: 200px;
+    // height: 100px;
+    
+  }
+
+// .employeeList {
+//   background-color: red;
+// }
+
+
+h1 {
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+  .button {
+    background-color: black;
+    color: white;
+    border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+    height: 54px;
+	width: 514px;
+    cursor: pointer;
+}
+
+.drawerButton {
+    height: 34px;
+	width: 94px;
+    cursor: pointer;
+
+}
+
+label {
+    font-size: 16px;
+}
+
+form{
+  text-align: center;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  padding: 15px;
+  margin-top: 50px;
+}
+
+fieldset{
+  width: 760px;
+  height: 600px;
+  margin-left: auto;
+    margin-right: auto;
+  border: 0px solid gray;
+  padding-top: 35px;
+  padding-bottom: 95px;
+  background-color: rgb(211, 211, 211);
+  -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 55px;
+}
+
+.labelPadding{
+    //padding: 45px;
+    //text-align: left;
+    right: 236px;
+    font-weight: bold;
+    
+    
+}
+.labelPadding2{
+    //padding: 45px;
+    //text-align: left;
+    right: 216px;
+    font-weight: bold;
+    
+}
+
+
+.labelSize { 
+  height: 54px;
+  width: 514px;
+  font-size: 16px;
+  padding: 3px;
+  text-indent: 15px;
+}
